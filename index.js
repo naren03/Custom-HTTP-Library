@@ -21,7 +21,7 @@ const user = {
 
 //update a user
 // http
-// 	.put('https://jsonplaceholder.typicode.com/users/1', user)
+// 	.put('https://jsonplaceholder.typicode.com/users/3', user)
 // 	.then((data) => console.log(data))
 // 	.catch((err) => console.log(err));
 
